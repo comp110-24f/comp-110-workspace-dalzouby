@@ -1,0 +1,12 @@
+"""Greets you in a southern way."""
+
+print("Howdy!")
+# Finding the lowest card pseudocode
+# lowest_card = first card of deck
+# repeat until end of deck:
+# if current_card < lowest_card
+# lowest_card = current_card
+1_000 + 1_000_000
+10 / 2
+"spooky season"[2 + 2]
+"spooky season"[2 + 2]
